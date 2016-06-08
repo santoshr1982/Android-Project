@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="title">Home</string>
+    <string name="add_button_text">Add</string>
+    <string name="modify_button_text">Modify</string>
+    <string name="delete_button_text">Delete</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="cancel_button_text">Cancel</string>
+</resources>
